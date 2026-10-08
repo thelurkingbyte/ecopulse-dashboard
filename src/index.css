@@ -58,6 +58,7 @@ h2 { font-size: 17px; font-weight: 600; margin-bottom: 8px; }
   color: transparent;
   -webkit-text-fill-color: transparent;
   animation: brandpulse 2.8s ease-in-out infinite;
+  margin-left: -10px;
 }
 @keyframes brandpulse {
   0% { background-position: 0% 50%; filter: brightness(1); }
